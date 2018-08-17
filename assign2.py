@@ -22,3 +22,8 @@ print("Name: %s , Course: %s , Fees: %d" %(s,course,fees))
 name="Tony Stark"
 salary=1000000
 print('%s %d'%(name,salary) )
+#ques 7
+pi=3.14
+r=float(input("Enter radius"))
+area=pi*r*r
+print(area)
