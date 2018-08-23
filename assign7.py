@@ -7,7 +7,7 @@ for k,v in a.items():
 print(k)
 
 #ques 2
-a={'sarthak':{'maths':30,'physics':30,'chem':90},'rajat':{'maths':90,'physics':50,'chem':10},'vipul':{'maths':78,'physics':30,'chem':60}}
+a={'sarthak':{'maths':30,'physics':30,'chem':90},'ronaldo':{'maths':90,'physics':50,'chem':10},'vipul':{'maths':78,'physics':30,'chem':60}}
 b=str(input('enter name of student'))
 for k,v in a.items():
     if b==k:
